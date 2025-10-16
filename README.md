@@ -1,4 +1,3 @@
-# IPL-Data-Analysis-2008-2024-
 # IPL Data Analysis (2008-2024)
 
 This project provides an **exploratory data analysis (EDA) of Indian Premier League (IPL) matches** using Python, Pandas, Seaborn, and Plotly.  
